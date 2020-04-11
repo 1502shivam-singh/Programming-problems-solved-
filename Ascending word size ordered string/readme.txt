@@ -10,7 +10,7 @@ Rearrange the words in a sentence while respecting the following conditions:
 Example
 sentence = Cats and hats.
 
-Order the sentence by word's length and keep the original order for the words wirh the same length 
+Order the sentence by word's length and keep the original order for the words with the same length 
 - Length 3: [and]
 - Length 4: [Cats, hats]
 Reassemble the sequence of words so that the first letter is uppercase, the intermediate are lowercase and the last one is a period
