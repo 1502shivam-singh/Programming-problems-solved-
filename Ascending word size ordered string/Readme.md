@@ -1,3 +1,5 @@
+# Ascending word size ordered string
+
 Word ordered string -
 This is a question asked in the hackerrank open engineering challenge, solved by me in C++.
 The question follows this - 
