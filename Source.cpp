@@ -1,6 +1,6 @@
 #include<iostream>
 #include<conio.h>
-#include<string>
+#include<string>	//contains string class
 
 std::string arrange(std::string&);
 int main() { 
