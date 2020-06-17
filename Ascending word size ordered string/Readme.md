@@ -1,7 +1,7 @@
 # Ascending word size ordered string
 
 Word ordered string -
-This is a question asked in the hackerrank open engineering challenge, solved by me in C++.
+This is a question asked in the <strong>HackerRank open engineering challenge</strong>, solved by me in C++.
 The question follows this - 
 Rearrange the words in a sentence while respecting the following conditions:
 
