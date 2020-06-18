@@ -6,7 +6,7 @@ std::string arrange(std::string&);
 int main() { 
 	std::string str;
 	std::getline(std::cin, str);
-	std::cout<<arrange(str);
+	std::cout<<arrange(str);	//Call to the function that does the task
 	_getch();
 }
 std::string arrange(std::string& s) {
