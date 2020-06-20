@@ -2,7 +2,7 @@
 
 Word ordered string -
 This is a question asked in the <strong>HackerRank Open Engineering Challenge</strong>, solved by me in C++17.
-The question follows this - 
+The question follows this-<br> 
 Rearrange the words in a sentence while respecting the following conditions:
 
 1) Each word ordered by length ascending.
